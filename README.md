@@ -1,8 +1,6 @@
 # awesome-education
 为学生收集支持教育优惠的软件与服务，开源项目离不开大家的支持和鼓励，欢迎参加 [项目补完计划](https://github.com/wowlusitong/awesome-education/issues/2)
 
-[English](README-en.md)
-
 #### 软件
   * [Setapp](https://setapp.com/educational-discount) - 5折优惠，每月4.99刀，订阅制应用商店。查看[可用软件列表](https://setapp.com/apps)
   * [JetBrains](https://www.jetbrains.com/student/) - 免费使用旗下大部分软件，如IntelliJ IDEA、WebStorm 等
@@ -50,7 +48,7 @@
   * [BetterZip](https://www.studentappcentre.com/discounts/betterzip) - 7折
   * [DaisyDisk](https://www.studentappcentre.com/discounts/daisydisk) - 5折
   * [Soulver](http://www.acqualia.com/store/soulver?coupon=EduDiscount) - 8折
-  * [Downie](https://www.studentappcentre.com/discounts/downie) - 5折
+  * [Downie](https://www.studentappcentre.com/discounts/downie) - 7折
   * [Witch](https://www.studentappcentre.com/discounts/witch) - 7.5折
   * [Moom](https://www.studentappcentre.com/discounts/moom) - 7.5折
   * [Time Sink](https://www.studentappcentre.com/discounts/timesink) - 7.5折
@@ -70,7 +68,7 @@
   * [MarginNote 3](https://cforum.marginnote.com/t/topic/457/48) - 6折, 国人开发的 PDF/EPUD 记录笔记、翻译、导出学习卡片的学习软件
   * [Marked](https://www.studentappcentre.com/discounts/marked) - 5折
   * [NotePlan](https://www.studentappcentre.com/discounts/noteplan) - 7折
-  * [Permute](https://www.studentappcentre.com/discounts/permute) - 5折
+  * [Permute](https://www.studentappcentre.com/discounts/permute) - 7折
   * [SoundSource](https://www.studentappcentre.com/discounts/soundsource) - 8.5折
   * [Piezo](https://www.studentappcentre.com/discounts/piezo) - 8.5折
   * [Loopback](https://www.studentappcentre.com/discounts/loopback) - 8.5折
